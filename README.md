@@ -1,2 +1,0 @@
-# ElDawlia
-Products_Images
